@@ -1,1 +1,0 @@
-# visualAcuityTester_VR
